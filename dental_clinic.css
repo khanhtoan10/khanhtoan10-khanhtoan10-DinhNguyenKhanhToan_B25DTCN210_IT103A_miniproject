@@ -1,0 +1,24 @@
+.all{
+    background-color: #0ea5e9;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.link{
+    background-color: #e0f2fe;
+    color: #0369a1;
+    text-align: center;
+    text-decoration: none;
+}
+
+.link a{
+    text-decoration: none;
+    margin: 0 6px;
+}
+
+.link a:hover{
+    background-color: #0ea5e9;
+    cursor: pointer;
+    color: white;
+}
